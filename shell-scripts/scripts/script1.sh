@@ -1,4 +1,4 @@
-#Shell Script to display server name,CPU Usage,Disk Usage
+##Shell Script to display server name,CPU Usage,Disk Usage
 
 #!/bin/bash
 

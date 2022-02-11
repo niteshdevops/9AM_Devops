@@ -1,4 +1,4 @@
-#Script to find a file in a specified file
+##Script to find a file in a specified file
 
 #!/bin/bash
 

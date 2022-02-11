@@ -1,4 +1,4 @@
-#Shell script to find the number of the lines and words in a text file
+##Shell script to find the number of the lines and words in a text file
 
 #!/bin/bash
 

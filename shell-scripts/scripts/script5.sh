@@ -1,4 +1,4 @@
-#Shell script to install a package if not installed
+##Shell script to install a package if not installed
 
 #!/bin/bash
 
